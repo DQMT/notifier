@@ -7,12 +7,6 @@ dependency-reduced-pom.xml
 *.properties
 *.vscode
 
-### maven ###
-mvnw.*
-mvnw
-.mvn/
-
-
 ### STS ###
 .apt_generated
 .classpath
